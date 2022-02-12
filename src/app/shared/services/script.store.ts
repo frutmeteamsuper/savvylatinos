@@ -25,5 +25,5 @@ export const ScriptStore: Scripts[] = [
     {name: 'move', src: './assets/assets/vendors/twentytwenty/jquery.event.move.js'},
     {name: 'parallax', src: './assets/assets/vendors/parallax/parallax.min.js'},
     {name: 'latinos', src: './assets/assets/js/latinos.js'},
-    {name: 'typed', src: './assets/https://cdn.jsdelivr.net/npm/typed.js@2.0.12'}
+    {name: 'typed', src: 'https://cdn.jsdelivr.net/npm/typed.js@2.0.12'}
 ];
